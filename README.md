@@ -51,4 +51,54 @@ The company's operations rely heavily on recorded information such as raw materi
 - Identification of key elements (batch codes, customers, product formats)  
 - Level of standardization currently applied
 
+---
+
+# LaFerme-MDM  
+**Gestión de Datos Maestros (MDM)**
+
+## Tabla de Contenidos
+
+1. [Contexto del Proyecto](#contexto-del-proyecto)  
+2. [Fase de Diagnóstico](#fase-de-diagnóstico)  
+3. [Modelado de Datos y Diseño Ligero](#modelado-de-datos-y-diseño-ligero)  
+4. [Migración de Datos](#migración-de-datos)  
+5. [Monitoreo y Calidad de Datos](#monitoreo-y-calidad-de-datos)  
+6. [Capacitación y Mejora Continua](#capacitación-y-mejora-continua)  
+
+---
+
+7. [Análisis Profundo (Insights)](#análisis-profundo-insights)  
+   7.1 [Tendencias de Ventas y Tasas de Crecimiento](#tendencias-de-ventas-y-tasas-de-crecimiento)  
+   7.2 [Modelado Predictivo](#modelado-predictivo)  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Comportamiento de Temperatura](#comportamiento-de-temperatura)  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Pronóstico de Demanda](#pronóstico-de-demanda)  
+   7.3 [Análisis Logístico](#análisis-logístico)  
+
+---
+
+8. [Recomendaciones](#recomendaciones)  
+9. [Supuestos y Limitaciones](#supuestos-y-limitaciones)
+
+---
+
+## Contexto del Proyecto
+
+**La Ferme** se especializa en la ultrapasteurización de productos lácteos. Este proyecto tiene como objetivo mejorar la gestión de la información clave del negocio, elevando su **calidad**, **seguridad** y **disponibilidad**.
+
+El alcance de esta iniciativa incluye:
+
+- Diseño de la **arquitectura general de datos**  
+- Migración y validación de la **información histórica y operativa**  
+- Coordinación con cada **área del negocio** para asegurar la **consistencia y trazabilidad** de los datos  
+- Implementación de herramientas que respalden la **toma de decisiones basada en datos** a lo largo de toda la organización
+
+---
+
+## Fase de Diagnóstico
+
+La fase de diagnóstico constituye la base del proyecto, permitiendo una evaluación estructurada del estado actual de la captura, manejo y uso de la información dentro de la empresa.
+
+Las o
+
+
 
