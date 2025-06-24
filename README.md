@@ -37,5 +37,18 @@ The scope of this initiative includes:
 - Coordinating with each **business unit** to ensure data **consistency and traceability**  
 - Implementing tools that support **data-driven decision-making** across all key roles in the organization
 
+## Diagnostic Phase
+
+The diagnostic phase constitutes the foundation of the project, enabling a structured evaluation of the current state of data capture, handling, and usage within the company.
+
+The company's operations rely heavily on recorded information such as raw material batches, production batches, quality control records, and customer orders, among others. This phase aims to understand and document the following:
+
+- Information that is generated and recorded  
+- Types of storage formats currently in use  
+- Information flow between operational areas (Production → Quality → Sales → Distribution)  
+- Data used in decision-making processes  
+- Existing issues (e.g., lack of standardization, duplication, delays, or data loss)  
+- Identification of key elements (batch codes, customers, product formats)  
+- Level of standardization currently applied
 
 
