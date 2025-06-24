@@ -24,4 +24,18 @@
 8. [Recommendations](#recommendations)  
 9. [Assumptions and Caveats](#assumptions-and-caveats)
 
+---
+
+## Project Background
+
+**La Ferme** specializes in the ultra-pasteurization of dairy products. This project aims to enhance the management of key business information by improving its **quality**, **security**, and **availability**.
+
+The scope of this initiative includes:
+
+- Designing the overall **data architecture**  
+- Migrating and validating both **historical and operational information**  
+- Coordinating with each **business unit** to ensure data **consistency and traceability**  
+- Implementing tools that support **data-driven decision-making** across all key roles in the organization
+
+
 
