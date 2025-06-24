@@ -51,6 +51,42 @@ The company's operations rely heavily on recorded information such as raw materi
 - Identification of key elements (batch codes, customers, product formats)  
 - Level of standardization currently applied
 
+## Data Modeling and Lightweight Design
+
+During this phase, the key functional areas that must be integrated into **La Ferme**'s master data model were identified. The goal is to represent business operations in a structured way, enable interoperability across departments, and support effective yet lightweight data governance.
+
+The essential domains considered in the design are:
+
+- **Operations and Technical Process**  
+  Production, processing, batch control, handling of inputs and outputs.
+
+- **Food Safety and Quality Assurance**  
+  Quality controls, sampling, lab results, and compliance with health standards.
+
+- **Supply Chain and Logistics**  
+  Storage, traceability, distribution, use of containers, and transportation.
+
+- **Commercial Management and Market**  
+  Customers, orders, sales channels, pricing, and demand behavior.
+
+- **Administration and Finance**  
+  Invoicing, cost centers, margins, and budget control.
+
+- **Human Resources and Occupational Safety**  
+  Staff involved in processes, training, shifts, and workplace safety protocols.
+
+- **Sustainability and Environment**  
+  Waste control, residue management, energy efficiency, and environmental compliance.
+
+- **Innovation and Technology**  
+  Systems, sensors, automation, and digital process monitoring.
+
+- **Legal and Regulatory Compliance**  
+  Regulatory requirements, permits, process documentation, and audit readiness.
+
+This functional analysis serves as the foundation for constructing the entity-relationship model and defining the core master entities, key relationships, and the minimum rules for data quality, access, and traceability.
+
+
 ---
 
 # LaFerme-MDM  
@@ -107,6 +143,42 @@ Las operaciones de La Ferme dependen en gran medida de información registrada, 
 - Problemas existentes (por ejemplo: falta de estandarización, duplicación, retrasos o pérdida de datos)  
 - Elementos clave involucrados (códigos de lote, clientes, formatos de producto)  
 - Nivel de estandarización aplicado actualmente
+
+## Modelado de Datos y Diseño Ligero
+
+Durante esta fase se identificaron las áreas funcionales clave que deben integrarse en el modelo de datos maestro de **La Ferme**, con el objetivo de reflejar de forma estructurada la operación del negocio, facilitar la interoperabilidad entre áreas, y permitir una gobernanza ligera pero efectiva.
+
+Las áreas esenciales consideradas para el diseño del modelo son:
+
+- **Operaciones y Proceso Técnico**  
+  Producción, procesamiento, control de lotes, manejo de insumos y salidas.
+
+- **Calidad e Inocuidad Alimentaria**  
+  Controles de calidad, muestreo, resultados de laboratorio, cumplimiento de estándares sanitarios.
+
+- **Cadena de Suministro y Logística**  
+  Almacenamiento, trazabilidad, distribución, uso de contenedores y transporte.
+
+- **Gestión Comercial y Mercado**  
+  Clientes, pedidos, canales de venta, precios y comportamiento de la demanda.
+
+- **Administración y Finanzas**  
+  Facturación, centros de costo, márgenes, control presupuestal.
+
+- **Recursos Humanos y Seguridad Laboral**  
+  Personal involucrado en procesos, capacitación, turnos, seguridad e higiene.
+
+- **Sostenibilidad y Medio Ambiente**  
+  Control de mermas, gestión de residuos, eficiencia energética y normativas ecológicas.
+
+- **Innovación y Tecnología**  
+  Sistemas, sensores, automatización, seguimiento digital de procesos.
+
+- **Cumplimiento Legal y Normativo**  
+  Requisitos regulatorios, permisos, documentación de procesos y auditorías.
+
+Este análisis funcional servirá como base para construir el modelo entidad-relación y definir las entidades maestras, relaciones clave y reglas mínimas de calidad, acceso y trazabilidad.
+
 
 
 
