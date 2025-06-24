@@ -98,7 +98,15 @@ El alcance de esta iniciativa incluye:
 
 La fase de diagnóstico constituye la base del proyecto, permitiendo una evaluación estructurada del estado actual de la captura, manejo y uso de la información dentro de la empresa.
 
-Las o
+Las operaciones de La Ferme dependen en gran medida de información registrada, como lotes de materia prima, lotes de producción, controles de calidad y órdenes de clientes, entre otros. Esta fase busca comprender y documentar:
+
+- La información que se genera y se registra  
+- Tipos de almacenamiento utilizados actualmente (formatos)  
+- Flujo de información entre las áreas operativas (Producción → Calidad → Ventas → Distribución)  
+- Datos utilizados en los procesos de toma de decisiones  
+- Problemas existentes (por ejemplo: falta de estandarización, duplicación, retrasos o pérdida de datos)  
+- Elementos clave involucrados (códigos de lote, clientes, formatos de producto)  
+- Nivel de estandarización aplicado actualmente
 
 
 
